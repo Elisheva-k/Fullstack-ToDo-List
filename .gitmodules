@@ -1,0 +1,6 @@
+[submodule "todos.server"]
+	path = todos.server
+	url = https://github.com/Elisheva-k/todos.server.git
+[submodule "todos.client"]
+	path = todos.client
+	url = https://github.com/Elisheva-k/todos.client.git

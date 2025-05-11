@@ -50,8 +50,7 @@ It demonstrates practical implementation of:
 - Use `axios.defaults.baseURL` to reduce repetition
 - Improve UI with Material-UI or TailwindCSS
 - Add drag-and-drop sorting of tasks
-- JWT token storage using `localStorage`
-
+  
 ---
 
 ## 🧪 Testing and Debugging

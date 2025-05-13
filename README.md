@@ -36,12 +36,6 @@ It demonstrates practical implementation of:
 - [x] Update task (PUT)
 - [x] Delete task (DELETE)
 
-### Bonus:
-- [ ] JWT Authentication
-- [ ] Login / Register Pages (React)
-- [ ] Protected Routes
-- [ ] Axios Interceptors
-
 ---
 
 ## ✨ Extra Enhancements
